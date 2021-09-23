@@ -1,2 +1,1 @@
-# LaTeX_notes
-LaTeX常用笔记
+各类常用笔记
